@@ -53,6 +53,10 @@
       "api": "https://mozhuazy.com/api.php/provide/vod",
       "name": "魔爪资源"
     },
+        "laosepi": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod/",
+      "name": "老色批"
+    },
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "魔都资源"
