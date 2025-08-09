@@ -55,7 +55,11 @@
     },
         "laosepi": {
       "api": "https://apilsbzy1.com/api.php/provide/vod/",
-      "name": "老色批"
+      "name": "lspzy"
+    },
+            "155": {
+      "api": "https://155api.com/api.php/provide/vod/",
+      "name": "155资源"
     },
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
