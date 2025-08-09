@@ -62,8 +62,8 @@
       "name": "155资源"
     },
           "shayu": {
-       "api": "https://shayuapi.com/api.php/provide/vod/"
-       "name": "鲨鱼"
+      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "name": "鲨鱼"
     },
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
