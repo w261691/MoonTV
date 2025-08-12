@@ -87,7 +87,7 @@
     },
     "shayu": {
       "api": "htttttps://shayuapi.com/api.php/provide/vod",
-    "name": "鲨鱼"
+      "name": "鲨鱼"
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
