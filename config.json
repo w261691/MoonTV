@@ -101,5 +101,9 @@
       "api" "https://thzy1.me/api.php/provide/vod",
       "name": "探花资源"
     }
+    "aosikazy": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "奥斯卡"
+    }
   }
 }
