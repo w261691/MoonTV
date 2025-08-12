@@ -81,6 +81,10 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
+    "taohua": {
+      "api": "https://thzy1.me/api.php/provide/vod",
+      "name": "taohuazy"
+    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
