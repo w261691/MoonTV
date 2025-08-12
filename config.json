@@ -81,9 +81,13 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    "taohua": {
+    "naixx": {
       "api": "https://naixxzy.com/api.php/provide/vod/at/xml",
-      "name": "taohuazy"
+      "name": "奶香香"
+    },
+    "shayu": {
+      "api": "htttttps://shayuapi.com/api.php/provide/vod",
+    "name": "鲨鱼"
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
