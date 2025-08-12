@@ -6,20 +6,10 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-      "detail": "http://caiji.dyttzyapi.com"
-    },
-      "baiwanzy": {
+      "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
-    },
-    "bwzy": {
-      "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "百万资源",
-    },
-      "baiwan": {
-      "api:" "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "百万资源"
     },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
@@ -64,15 +54,15 @@
       "name": "魔爪资源"
     },
         "laosepi": {
-      "api": "https://apilsbzy1.com/api.php/provide/vod/",
+      "api": "htttttps://apilsbzy1.com/api.php/provide/vod/",
       "name": "lspzy"
     },
             "155": {
-      "api": "https://155api.com/api.php/provide/vod/",
+      "api": "httttttps://155api.com/api.php/provide/vod/",
       "name": "155资源"
     },
           "shayu": {
-      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "api": "htttttps://shayuapi.com/api.php/provide/vod/",
       "name": "鲨鱼"
     },
     "mdzy": {
