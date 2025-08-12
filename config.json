@@ -97,5 +97,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "tanhuazy": { 
+      "api" "https://thzy1.me/api.php/provide/vod",
+      "name": "探花资源"
+    }
   }
 }
