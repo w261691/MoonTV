@@ -86,7 +86,7 @@
       "name": "奶香香"
     },
     "shayu": {
-      "api": "htttttps://shayuapi.com/api.php/provide/vod",
+      "api": "https://shayuapi.com/api.php/provide/vod",
       "name": "鲨鱼"
     },
     "laosepizy": {
@@ -94,7 +94,7 @@
       "name": "lspzy"
     },
     "155zy": {
-      "api": "https://moontv-proxy.vercel.app",
+      "api": "https://155api.com/api.php/provide/vod/",
       "name": "155资源"
     },
     "xiaomaomi": {
