@@ -94,7 +94,7 @@
       "name": "lspzy"
     },
     "155zy": {
-      "api": "https://155api.com/api.php/provide/vod",
+      "api": "https://moontv-proxy.vercel.app",
       "name": "155资源"
     },
     "xiaomaomi": {
