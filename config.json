@@ -8,7 +8,7 @@
     },
     "maotai": {
       "api": "https://mtzy.me/api.php/provide/vod",
-      "name": "茅台资源",
+      "name": "maotai",
       "detail": "https://mtzy.me"
     },
     "ruyi": {
