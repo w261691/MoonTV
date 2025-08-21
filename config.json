@@ -9,7 +9,7 @@
     "maotai": {
       "api": "https://mtzy.me/api.php/provide/vod",
       "name": "茅台资源",
-      "detail": "https://heimuer.tv"
+      "detail": "https://mtzy.me"
     },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
