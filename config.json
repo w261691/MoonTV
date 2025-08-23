@@ -100,6 +100,13 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+      "custom_category": [
+    {
+      "name": "自拍",
+      "type": "movie",
+      "query": "自拍偷拍"
     }
+  ]
   }
 }
