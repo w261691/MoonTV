@@ -101,11 +101,11 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-      "custom_category": [
+    "custom_category": [
     {
-      "name": "自拍",
+      "name": "古装",
       "type": "movie",
-      "query": "自拍偷拍"
+      "query": "古装"
     }
   ]
   }
