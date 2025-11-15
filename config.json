@@ -93,6 +93,10 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "lspzy"
     },
+    "aosika": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "奥斯卡"
+    },
     "155zy": {
       "api": "https://155api.com/api.php/provide/vod/",
       "name": "155资源"
