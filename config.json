@@ -81,30 +81,6 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    "naixx": {
-      "api": "https://naixxzy.com/api.php/provide/vod/at/xml",
-      "name": "奶香香"
-    },
-    "shayu": {
-      "api": "https://shayuapi.com/api.php/provide/vod",
-      "name": "鲨鱼"
-    },
-    "laosepizy": {
-      "api": "https://apilsbzy1.com/api.php/provide/vod",
-      "name": "lspzy"
-    },
-    "aosika": {
-      "api": "https://aosikazy.com/api.php/provide/vod",
-      "name": "奥斯卡"
-    },
-    "155zy": {
-      "api": "https://155api.com/api.php/provide/provide",
-      "name": "155资源"
-    },
-    "91麻豆": {
-      "api": "https://91md.me/api.php/provide/vod/"
-      "name": "91麻豆"
-    },
     "custom_category": [
     {
       "name": "古装",
